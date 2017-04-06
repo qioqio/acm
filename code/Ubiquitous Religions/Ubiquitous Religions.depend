@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1461159580 source:f:\code\ubiquitous religions\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1488041436 source:e:\hdu\moving tables\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+

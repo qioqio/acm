@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1461766062 source:f:\code\linjiejuzhen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

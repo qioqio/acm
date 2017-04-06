@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1484477301 source:e:\code\i like coding\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+

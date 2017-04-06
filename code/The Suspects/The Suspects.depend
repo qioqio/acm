@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1461162184 source:f:\code\the suspects\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

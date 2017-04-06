@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1463192198 source:f:\code\matches\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+

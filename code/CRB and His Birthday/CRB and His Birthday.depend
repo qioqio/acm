@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1468040814 source:f:\code\crb and his birthday\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1467818392 source:f:\code\课本上的例题\main.cpp
+	<iostream>
+	<iomanip>
+

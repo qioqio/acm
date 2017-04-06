@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1490500715 source:e:\hdu\tanjar\main.cpp
+	<cstdio>
+	<algorithm>
+	<string.h>
+

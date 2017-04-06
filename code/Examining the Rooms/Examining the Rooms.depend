@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1462277408 source:f:\code\examining the rooms\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1461162913 source:f:\code\jungle roads\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

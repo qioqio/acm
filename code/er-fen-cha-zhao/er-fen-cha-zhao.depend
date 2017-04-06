@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1461079300 source:f:\code\er-fen-cha-zhao\main.c
+	<stdio.h>
+	<stdlib.h>
+

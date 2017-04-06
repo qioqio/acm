@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1461679822 source:f:\code\tex quotes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

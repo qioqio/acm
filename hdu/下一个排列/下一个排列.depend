@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1491226433 source:e:\hdu\下一个排列\main.cpp
+	<iostream>
+	<algorithm>
+	<stdio.h>
+

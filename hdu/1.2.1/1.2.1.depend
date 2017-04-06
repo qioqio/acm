@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1487751413 source:e:\hdu\1.2.1\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+

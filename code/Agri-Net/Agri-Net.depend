@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1461157179 source:f:\code\agri-net\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

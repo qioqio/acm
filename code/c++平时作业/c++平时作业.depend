@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1468646263 source:f:\code\c++平时作业\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

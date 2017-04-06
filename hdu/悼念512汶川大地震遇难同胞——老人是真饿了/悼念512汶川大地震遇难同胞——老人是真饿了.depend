@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1488043676 source:e:\hdu\悼念512汶川大地震遇难同胞——老人是真饿了\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<algorithm>
+

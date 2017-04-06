@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1468638789 source:f:\code\point3d\main.cpp
+	<iostream>
+
+1468639793 source:f:\code\point3d\src\point3d.cpp
+	"Point3D.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1468639512 f:\code\point3d\include\point3d.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Point.h"
+	"Point.cpp"
+
+1468639532 f:\code\point3d\include\point.h
+	<stdio.h>
+
+1468639720 f:\code\point3d\include\point.cpp
+	"Point.h"
+	<stdio.h>
+	<iostream>
+

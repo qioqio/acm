@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1461825255 source:f:\code\watchcow\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
